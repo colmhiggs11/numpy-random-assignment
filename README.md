@@ -17,3 +17,5 @@ This repository contains the files for Assignment 1 in the Programming for Data 
 * [README.md](https://github.com/colmhiggs11/numpy-random-assignment/blob/main/README.md) *(Containing contents of the repository and How to run the Jupyter Notebook)*
 * [Programming for Data Analysis - numpy.random.ipynb](https://github.com/colmhiggs11/numpy-random-assignment/blob/main/Programming%20for%20Data%20Analysis%20-%20%20numpy.random.ipynb) *(Jupyter Notebook containing the analysis of numpy.random package in Python )*
 
+## Juptyer Notebook
+
