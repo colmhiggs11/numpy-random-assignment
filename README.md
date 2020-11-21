@@ -18,4 +18,7 @@ This repository contains the files for Assignment 1 in the Programming for Data 
 * [Programming for Data Analysis - numpy.random.ipynb](https://github.com/colmhiggs11/numpy-random-assignment/blob/main/Programming%20for%20Data%20Analysis%20-%20%20numpy.random.ipynb) *(Jupyter Notebook containing the analysis of numpy.random package in Python )*
 
 ## Juptyer Notebook
+To run the jupyter notebook if you have this repository cloned to your PC, run the command jupyter notebook in Cmdr and the notebook will open.
+If any errrors are shown in the notebook such as "np not defined", got to the top of the notebook ,seleect Kernel and "Restart and Run all".
+
 
